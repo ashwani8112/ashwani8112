@@ -1,7 +1,7 @@
 ![logo](https://github.com/ashwani8112/ashwani8112/blob/main/Blue%20And%20White%20Digital%20Background.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ashwani Yadav</h1>
 <h3 align="center">A passionate Data science from India</h3>
-<img  align="right" src="https://i0.wp.com/university.help.edu.my/wp-content/uploads/2020/09/MABA_img.jpg?fit=1920%2C1280&ssl=1" alt="analyst" style="width:200px;height:190px;"  >
+<img  align="right" src="https://i0.wp.com/university.help.edu.my/wp-content/uploads/2020/09/MABA_img.jpg?fit=1920%2C1280&ssl=1" alt="analyst" style="width:280px;height:230px;"  >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwani8112&label=Profile%20views&color=0e75b6&style=flat" alt="ashwani8112" /> </p>
 
 <h3 align="left">Connect with me:</h3>
